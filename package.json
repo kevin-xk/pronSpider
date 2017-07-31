@@ -1,0 +1,22 @@
+{
+  "name": "less",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.9.5",
+    "cheerio": "^1.0.0-rc.1",
+    "superagent": "^3.5.2"
+  },
+  "dependencies": {
+    "g": "^2.0.1",
+    "node-dev": "^3.1.3",
+    "object-keys": "^1.0.11",
+    "superagent-charset": "^1.2.0"
+  }
+}
